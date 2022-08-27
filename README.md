@@ -15,3 +15,10 @@ Below are the June and December Summary statistics:
 
 ## Summary: 
 From these two summary statistics dataframes we created for June and December we can conclude that Hawaii will be a great place to open an ice cream shop because of the warm temperatures year round. The mean temperature in December sits around a high 71 degrees farenheit and doesn’t drop below a minimum temperature of 56. This isn’t too different from the mean temperature in June which sits at 75 degrees. An additional query that could be helpful to perform before this business venture would be the levels percipitation in June and December. We would anticipate that ice cream would be less in demand during the wet and rainy months. Additionally, we may want to look at a query that shoes average temperatures and percipitation levels month over month to understand when we may see higher or lower demand for ice cream, to help us predict the ice cream amounts we will need to stock over the year and ensure we don't have too much or too little ice cream in stock 
+
+---
+
+**Contact:**
+
+Email: charlotte.rotner@gmail.com  
+Linkedin: https://www.linkedin.com/in/charlotte-rotner/
